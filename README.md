@@ -1,6 +1,5 @@
 - 👋 Hola! Soy Vanesa Burman
 - 👀 Soy Biotecnologa, aprendiendo de programación desde Argentina.
-- 🌱 Estoy actualmente cursando en Soy Henry
 - 📫 Me pueden contactar en vanesa.burman@hotmail.com
 
 <!---
